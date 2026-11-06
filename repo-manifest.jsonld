@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/role2collection/commit/d324fe9c4c589dcee94ee4ab711e3097ae7221be",
       "git:hexsha": "d324fe9c4c589dcee94ee4ab711e3097ae7221be",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
