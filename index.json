@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "role2collection",
+  "versions": [
+    {
+      "commit": "d324fe9c4c589dcee94ee4ab711e3097ae7221be",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:43:48.363767+00:00"
+    }
+  ]
+}
